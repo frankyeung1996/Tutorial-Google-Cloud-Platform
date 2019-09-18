@@ -6,7 +6,7 @@ Welcome to Google Cloud - Deep Dive Series
 1. GCP is responsible for security _(of)_ the cloud and Users are
 responsible for security _(in)_ cloud
 
-Cloud IAM
+(A) Cloud IAM
 -----------
 - let you manage access control by defining <who> has 
   access for <which> resource
