@@ -31,3 +31,11 @@ responsible for security _(in)_ cloud
   
 (C) Concepts related to Cloud IAM
 -----------
+1. Resource
+  - anything that you create within GCP - VM instance, storage bucket
+2. Permissions
+  - determine what operations are allowed on a resource
+  - they are represented in the form of <service>.<resource>.<verb>
+      - compute.instances.delete
+      - appengine.instances.list
+3. 
