@@ -13,7 +13,8 @@ responsible for security _(in)_ cloud
 - principle of least priviledge : gain only the necessary access to 
   your resource
   
-<Who> 
+(B) WHO
+-----------
 1. Google Accounts (frankyeung1996@gmail.com)
   (can be a developer, admin, or any other actual
      user who interact with GCP)
