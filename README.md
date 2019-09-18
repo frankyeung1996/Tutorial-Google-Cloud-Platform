@@ -17,10 +17,16 @@ responsible for security _(in)_ cloud
           - can be a developer, admin, or any other actual
             user who interact with GCP
       - Application that you deploy (apps/scripts)
+          - is called Service Account
       - Google Groups (e.g. Ggroup1@googlegroups.com)
+          - named collection of gmail ids
+          - unique name and an email id
+          - single point to apply an access policy to a 
+            collection of users
       - GSuite Domain (Gmail, Google Drive)
       - Cloud Identity domain (IDaaS)  (hsbc.com, infosys.com)
       - Federated Users (single sign-on (SSO))
+      - 
   
-
-
+Concepts related to Cloud IAM
+-----------
