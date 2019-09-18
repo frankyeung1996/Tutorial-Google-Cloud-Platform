@@ -38,4 +38,5 @@ responsible for security _(in)_ cloud
   - they are represented in the form of <service>.<resource>.<verb>
       - compute.instances.delete
       - appengine.instances.list
+      - pubsub.subscriptions.consume
 3. 
