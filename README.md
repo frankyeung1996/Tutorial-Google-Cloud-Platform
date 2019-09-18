@@ -39,4 +39,4 @@ responsible for security _(in)_ cloud
       - compute.instances.delete
       - appengine.instances.list
       - pubsub.subscriptions.consume
-3. 
+3. Roles
