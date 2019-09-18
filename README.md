@@ -15,10 +15,10 @@ responsible for security _(in)_ cloud
   
 <Who> 
 1. Google Accounts (frankyeung1996@gmail.com)
-   - can be a developer, admin, or any other actual
+  - can be a developer, admin, or any other actual
      user who interact with GCP
 2. Service Account 
-   - Application that you deploy (apps/scripts)
+  - Application that you deploy (apps/scripts)
 3. Google Groups (e.g. Ggroup1@googlegroups.com)
    - named collection of gmail ids
    - unique name and an email id
